@@ -13,13 +13,7 @@ import spark.Route;
 import spark.Service;
 
 public class Main {
-//<<<<<<< HEAD
 
-	/* Chinh sua tren server may client */
-//=======
-	
-	/* Chinh sua tren server github */
-//>>>>>>> 7828e31f9a1f2bd254b3a0fd1532e9b382da9ed6
 	/* Chinh sua hop nhat giua server & client */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
